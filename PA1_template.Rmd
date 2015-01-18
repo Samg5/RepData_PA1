@@ -3,7 +3,6 @@ output: html_document
 ---
 # <span style="color:black"> Reproducible Research: Peer Assessment# 1</span>
 
-<span style="color:blue">_________________________________________________________________________________________________________________________</span>
 
 ##Introduction:
 
@@ -248,5 +247,4 @@ xyplot( type="l", data=newFactorInt, Steps ~ Interval | DayType, xlab="Interval"
 ####**The graphs show a comparision of trend in Avg# of steps taken in 5mins between weekdays and weekends. We can conclude there's more activity on weekends than on weekdays. We can somewhat predict the subject in question may be having desk job or would be doing more physical work on weekends.**
 
 
-<span style="color:blue">========================================================================================================= </span>
 
